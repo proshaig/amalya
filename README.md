@@ -1,2 +1,0 @@
-# amalya
-amalya
